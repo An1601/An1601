@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Nguyen Duc An!](https://github.com/annguyen1601)
+## Hey 👋, I'm [Nguyen Duc An!](https://github.com/An1601)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an-nguy%E1%BB%85n-99802630b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.facebook.com/DucAn1601)
@@ -20,7 +20,7 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with ReactJS, Nodejs, Express, NestJS, <br /> Javascript, Typescript, MySQL, Sequelize, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/annguyen1601).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/An1601).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: nguyenducan.1601@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/15aKEGZB17q1JkqNwUqZEibXVB-wZJ2pc/edit).
