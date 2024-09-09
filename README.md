@@ -23,7 +23,6 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/An1601).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: nguyenducan.1601@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/15aKEGZB17q1JkqNwUqZEibXVB-wZJ2pc/edit).
 
 ### My Absolute Favorites:
 
